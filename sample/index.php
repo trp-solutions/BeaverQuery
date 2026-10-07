@@ -1,5 +1,9 @@
 <?php
-require_once "../lib/require_all.php";
+/*
+BeaverQuery is licensed under the Apache License 2.0 license
+https://github.com/trp-solutions/BeaverQuery/blob/main/LICENSE
+*/
+require_once "../lib/autoload.php";
 
 use \TRP\BeaverQuery\BeaverQuery as BQ;
 
